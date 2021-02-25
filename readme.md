@@ -1,0 +1,1 @@
+it is predefined class
